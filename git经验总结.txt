@@ -1,0 +1,9 @@
+1、git中一些命令，如：tree等可能没有，得自己额外安装
+2、遇到换行crlf等错误可以试试切换输入法，或者重复几次命令
+3、git branch -avv查看分支及其具体信息
+4、git log查看日志
+5、ssh -T git@github.com用户授权
+6、git add .添加改动至储存区
+7、git checkout [分支名]切换分支
+8、git remote -v查看提交用户信息
+9、git log --onine | cat命令无效的话，可以使用git log | cat
